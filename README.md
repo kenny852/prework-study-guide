@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prework Study Guide Webpage
 
 ## Description
@@ -19,3 +20,6 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+=======
+# prework-study-guide
+>>>>>>> 790c111dc6020184d39dd3f53aa545ca769562b1
